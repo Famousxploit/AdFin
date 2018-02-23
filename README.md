@@ -1,4 +1,5 @@
 # AdFin
+[![Python 2.6|2.7](https://img.shields.io/badge/python-2.6|2.7-yellow.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/license-GPLv2-red.svg)](https://raw.githubusercontent.com/p4kl0nc4t/AdFin/master/LICENSE)
 AdFin is a tool used to look for website's (admin) login page by using a wordlist. AdFin is running under Python 2.7 and Python 2.6.
 ## Usage
 ```
